@@ -1,2 +1,2 @@
-package PACKAGE_NAME;public class Main_07 {
+public class Main_07 {
 }
