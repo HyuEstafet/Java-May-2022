@@ -1,4 +1,4 @@
-public class Main_04_Variables_decimal_numbers {
+public class Main_04_Variables_Decimal_Numbers {
 
     public static void main(String[] args) {
         double a = 5.25;

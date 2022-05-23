@@ -1,4 +1,4 @@
-public class Main_03_Variables_whole_numbers {
+public class Main_03_Variables_Whole_Numbers {
 
     public static void main(String[] args) {
 

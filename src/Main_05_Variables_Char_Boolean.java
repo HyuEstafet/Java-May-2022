@@ -1,4 +1,4 @@
-public class Main_05_Variables_char_boolean {
+public class Main_05_Variables_Char_Boolean {
     public static void main(String[] args) {
 
         char a = 'A';
