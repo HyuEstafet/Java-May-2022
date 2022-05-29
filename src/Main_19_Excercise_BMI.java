@@ -12,9 +12,9 @@ public class Main_19_Excercise_BMI {
 
         if (BMI < 0 && BMI <= 18.5) {
             System.out.println("Your BMI is: "  + BMI + " and you're skinny");
-        } else if (BMI > 18.5 && BMI <= 25) {
+        } else if (BMI > 18.5 && BMI < 25) {
             System.out.println("Your BMI is: "  + BMI + " and your weight is fine");
-        } else if (BMI > 25 && BMI <= 30) {
+        } else if (BMI >= 25 && BMI < 30) {
             System.out.println("Your BMI is: "  + BMI + " and your weight is excess");
         } else {
             System.out.println("Your BMI is: "  + BMI + " and you're obese");
